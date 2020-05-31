@@ -21,7 +21,7 @@ Supported arguments:
 
 ## 教育背景
 
-### **哈尔滨理工大学**  `2014.9 - 2018.7`
+### **哈尔滨理工大学**  `2014.09 - 2018.07`
 
 ```
 本科
@@ -31,14 +31,14 @@ Supported arguments:
 
 ## 专业技能
 
-- 两年 **Java** 开发经验，熟练掌握 **Java 语法**、**集合**等基础
+- **两年 Java** 开发经验，熟练掌握 **Java 语法**、**集合**等基础
 - 了解 **JVM 内存模型**、**垃圾回收机制**
 - 了解 **Java 并发**编程技术
 - 熟练使用 **Spring**、**SpringMVC**、**SpringBoot**、**MyBatis** 等开源框架，了解 **Spring IOC**、**AOP** 原理
 - 熟练使用 **MySQL** 数据库，了解**事务**、**索引**、**锁**相关原理
 - 了解 **Kafka**、**Redis** 等中间件
 - 熟练使用 **Linux** 常用命令，熟练使用 **Maven**、**Git** 等项目管理工具
-- 熟悉常用的**数据结构**、**算法**和**设计模式**
+- 熟悉常用的**数据结构**、**算法**以及**设计模式**
 - **CET-6** 通过，具备英文文档阅读能力
 
 ## 工作经历
@@ -49,22 +49,21 @@ _Java 后端开发工程师_<br>
 
 ## 项目经历
 
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+- **项目名称**：资金网关
+- **项目描述**：在瓜子（车好多集团）资金流有限的情况下，为了尽可能的满足用户贷款购车的需求，瓜子金融系统需要接入不同类型的资金方，所以为了实现金融系统的最小化变更的接入新资方，需要抽象出一个统一模块即资金网关来完成对资金方的对接，由资金网关来提供向金融内部系统的资方审核、资方借款、资方还款功能。
+- **涉及技术**：SpringBoot、SpringMVC、MyBatis、Redis、Kafka、MySQL
+- **项目设计**：
+  - 采用分布式的项目开发模式，整个项目分为：各个资金方对接子项目，统一依赖服务，贷前借款流程网关服务，贷后还款流程网关服务，资金方业务流水导入和对账服务。
+  - 项目都基于 Spring 框架搭建 JavaWeb 应用，使用 Redis 做分布式锁和数据缓存，使用 Kafka 与其他业务系统解耦。
+
+- **项目职责**：
+  - 富民银行、诺亚融租、民生金租全流程对接（需求评审、开发、联调测试），以及新网银行、工商银行等资金方项目需求开发迭代。
+  - 负责一部分统一依赖服务的开发。
+  - 资金方业务流水导入和对账服务的设计和开发。
 
 ## 自我评价
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+乐观开朗，适应能力强<br>具备良好的沟通能力和高度的团队合作意识，能快速融入团队<br>不惧困难，喜欢钻研，喜欢问题，更喜欢解决问题<br>有良好编码品味，喜欢思考和重构自己负责的代码<br>学习能力较强，热爱代码，热爱编程，能保持不断进取的精神，有较高的执行力<br>
 
 ---
 
