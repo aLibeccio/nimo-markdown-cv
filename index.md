@@ -4,7 +4,7 @@ title: 岳洲宇
 email:
   url: mailto:tiga0609@icloud.com
   text: tiga0609@icloud.com
-phone: 8716841156
+phone: 18716841156
 ---
 
 # **岳洲宇**
@@ -31,7 +31,11 @@ Supported arguments:
 
 ## 专业技能
 
-- 
+- 两年 **Java** 开发经验，熟练掌握 **Java 语法**、**集合**等基础
+
+### 熟练使用 Spring、SpringMVC、SpringBoot 等开源框架进行项目开发，并了解 IOC、AOP 原理
+
+
 
 ## Experience
 
