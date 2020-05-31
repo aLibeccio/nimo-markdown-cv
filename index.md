@@ -32,16 +32,22 @@ Supported arguments:
 ## 专业技能
 
 - 两年 **Java** 开发经验，熟练掌握 **Java 语法**、**集合**等基础
+- 了解 **JVM 内存模型**、**垃圾回收机制**
+- 了解 **Java 并发**编程技术
+- 熟练使用 **Spring**、**SpringMVC**、**SpringBoot**、**MyBatis** 等开源框架进行项目开发，了解 **Spring IOC**、**AOP** 原理
+- 熟练使用 **MySQL** 数据库，了解**事务**、**索引**、**锁**相关原理
+- 了解 **Kafka**、**Redis** 等中间件
+- 熟练使用 **Linux** 常用命令，熟练使用 **Maven**、**Git** 等项目管理工具
+- 熟悉常用的**数据结构**、**算法**和**设计模式**
+- **CET-6** 通过，具备英文文档阅读能力
 
-### 熟练使用 **Spring**、**SpringMVC**、**SpringBoot** 等开源框架进行项目开发，并了解 **IOC**、**AOP** 原理
+## 工作经历
 
+### 瓜子二手车 `2018.07.02 - 2020.04.30`
 
+_Java 后端开发工程师_<br>
 
-## Experience
-
-### **Microsoft Research** `2020.5 -`
-
-_Research Intern_<br>
+负责资金方和保险对接项目的开发和维护、以及对内部资金对接相关运营系统开发和维护
 
 ### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
 
