@@ -4,8 +4,7 @@ title: 岳洲宇
 email:
   url: mailto:tiga0609@icloud.com
   text: tiga0609@icloud.com
-phone:
-  text: 18716841156
+phone: 8716841156
 ---
 
 # **岳洲宇**
@@ -29,6 +28,10 @@ Supported arguments:
 ```
 
 - 电子信息工程
+
+## 专业技能
+
+- 
 
 ## Experience
 
