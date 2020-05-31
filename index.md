@@ -33,7 +33,7 @@ Supported arguments:
 
 - 两年 **Java** 开发经验，熟练掌握 **Java 语法**、**集合**等基础
 
-### 熟练使用 Spring、SpringMVC、SpringBoot 等开源框架进行项目开发，并了解 IOC、AOP 原理
+### 熟练使用 **Spring**、**SpringMVC**、**SpringBoot** 等开源框架进行项目开发，并了解 **IOC**、**AOP** 原理
 
 
 
